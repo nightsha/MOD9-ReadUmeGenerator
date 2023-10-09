@@ -31,7 +31,12 @@ const questions = [
      {
         type:"input",
         message:"what is the contribution of the project?",
-        name:"contribution"
+        name:"contributionGuidelines"
+    },
+    {
+        type:"input",
+        message:"what is the test for the project?",
+        name:"test"
     }
 ];
 
